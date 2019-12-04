@@ -8,7 +8,7 @@ node{
         
         try {
             
-	        git branch: 'master', url: 'https://github.com/glamraj/capstone-petclinic.git'
+	        git branch: 'master', url: 'https://github.com/glamraj/new-repo2.git'
         
             	echo '*************GITLab Checkout is Successful************'
         }
